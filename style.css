@@ -12,14 +12,15 @@ body{
   padding: 40px;
   text-align: center;
   margin: auto;
-  margin-top: 5%;
+  margin-top: 0%;
   color: white;
   font-family: 'Ozymandias',sans-serif;
+  border-radius: 30px;
 }
 .box-img{
   border-radius: 50%;
-  width: auto;
-  height: auto;
+  width: 600px;
+  height: 600px;
 }
 .box h1{
   font-size: 40px;
